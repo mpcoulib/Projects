@@ -5,12 +5,12 @@ Welcome to my GitHub repository! This is a collection of projects that I've work
 
 ## Projects
 
-### 1. **[Project Name]**
+### 1. **Analyzing the effect of US unemployment rate announcement on ETFs stocks**
    - **Description:** Brief overview of what this project does, the main goals, and the technologies used.
    - **Key Concepts:** Highlight a few important concepts, techniques, or algorithms used.
    - **Technologies:** List of languages, frameworks, or tools used.
 
-### 2. **[Project Name]**
+### 2. **My Data Science Capstone: Predicting the next big hit using Spotify and Youtube data**
    - **Description:** Overview of the project and its objectives.
    - **Key Concepts:** Notable concepts or challenges solved.
    - **Technologies:** Technologies involved.
@@ -28,8 +28,3 @@ Throughout these projects, I've worked with:
 - **Data Science Tools:** Pandas, NumPy, Matplotlib, etc.
 - **Technology Consulting:** Building and improving systems, data migration, and problem-solving.
 
-Feel free to explore the projects, and don't hesitate to reach out if you have any questions or suggestions!
-
----
-
-You can fill in the details for each project. This README will give a quick overview of your work while also highlighting your skills!
