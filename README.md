@@ -10,10 +10,11 @@ Welcome to my GitHub repository! This is a collection of projects that I've work
    - **Key Concepts:** Event study methodology, abnormal returns, economic indicators, market volatility, ETF performance, unemployment rate impact on financial markets.
    - **Technologies:** Python, Pandas, Yahoo Finance API, Data Visualization (Infogram).
 
-### 2. **My Data Science Capstone: Predicting the next big hit using Spotify and Youtube data**
-   - **Description:** Overview of the project and its objectives.
-   - **Key Concepts:** Notable concepts or challenges solved.
-   - **Technologies:** Technologies involved.
+### 2.  **Predicting Song Popularity Using Audio Features and Social Media Marketing**
+   - **Description:** In this project, I aimed to predict the popularity of a song by analyzing both audio features and visual data. I focused on songs that have made it to the Billboard Global Top 200 chart as an indicator of popularity. Billboard's ranking system takes into account various factors such as online streaming, physical sales, social media engagement, and radio plays, making it a comprehensive measure of a song’s success.
+   - **Key Concepts:** I used data from Spotify to gather audio features (e.g., tempo, danceability) and from YouTube to collect video metrics (e.g., view count, like count). This combination of features reflects the multifaceted nature of what makes a song popular, beyond just its audio qualities.
+   - **Technologies:** Python, Spotify API, YouTube API, Billboard data, Data Visualization.
+
 
 ### 3. **[Project Name]**
    - **Description:** A brief explanation of the personal project or class assignment.
