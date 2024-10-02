@@ -10,9 +10,6 @@ Welcome to my GitHub repository! This is a collection of projects that I've work
    - **Key Concepts:** Event study methodology, abnormal returns, economic indicators, market volatility, ETF performance, unemployment rate impact on financial markets.
    - **Technologies:** Python, Pandas, Yahoo Finance API, Data Visualization (Infogram).
 
----
-
-You can adjust the specific concepts or tools if needed!
 ### 2. **My Data Science Capstone: Predicting the next big hit using Spotify and Youtube data**
    - **Description:** Overview of the project and its objectives.
    - **Key Concepts:** Notable concepts or challenges solved.
