@@ -16,16 +16,8 @@ Welcome to my GitHub repository! This is a collection of projects that I've work
    - **Technologies:** Python, Spotify API, YouTube API, Billboard data, Data Visualization.
 
 
-### 3. **[Project Name]**
-   - **Description:** A brief explanation of the personal project or class assignment.
-   - **Key Concepts:** Key takeaways or problems tackled.
-   - **Technologies:** Tools and frameworks used.
-
-## Skills
-
-Throughout these projects, I've worked with:
-
-- **Programming Languages:** Python, SQL, and more.
-- **Data Science Tools:** Pandas, NumPy, Matplotlib, etc.
-- **Technology Consulting:** Building and improving systems, data migration, and problem-solving.
+### 3. **Sentiment Analysis on Algerian Arabic Tweets**
+   - **Description:** In this project, I focused on performing sentiment analysis on tweets written in Algerian Arabic, a language with limited NLP resources. Using a dataset from the "AfriSenti-SemEval 2023 Shared Task," I applied various machine learning models like Naive Bayes, SVM, Logistic Regression, Random Forest, LSTM, and a custom 2-step classification method to classify the sentiment of tweets as positive, neutral, or negative. The 2-step classification model achieved the highest accuracy at 70%.
+   - **Key Concepts:** Sentiment analysis, machine learning, natural language processing (NLP), 2-step classification, data augmentation, text preprocessing.
+   - **Technologies:** Python, Scikit-learn, TensorFlow, Aravec Embeddings, Hugging Face API.
 
